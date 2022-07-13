@@ -7,20 +7,14 @@ The lateral and vertical limits of these airspace volumes are defined in Aeronau
 The goal of this Python script is to save these airspace data as a GeoJSON file, and to visualize the lateral zones on maps.  
 
 
-
-<br/>
 Example 1: visualize RTBA airspace sections on France map
-<br/>
 
 ![rtba](rtba.jpg)
 
-<br/>
 
 Example 2: visualize RTBA airspace with information on interactive map
 
 ![rtba_interactive](rtba_interactive.png)
-
-<br/>
 
 
 ## Running the tests
