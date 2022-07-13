@@ -9,7 +9,7 @@ The goal of this Python script is to save these airspace data as a GeoJSON file,
 
 Example 1: visualize RTBA airspace sections on France map
 
-![rtba](rtba.jpg)
+![rtba](rtba.png)
 
 
 Example 2: visualize RTBA airspace with information on interactive map
